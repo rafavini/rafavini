@@ -1,5 +1,11 @@
-### Oi! Eu sou o Rafael Vinicius
+### Oi! Eu sou o Rafael Vinicius <a href="https://emoji.gg/emoji/2807-gkalie124-wiggle"><img src="https://emoji.gg/assets/emoji/2807-gkalie124-wiggle.gif" width="32px" height="32px" alt="gkalie124_wiggle"></a>
 ##
+
+Público meus projetos e estudo neste repositório.
+
+ 
+ 
+ 
 <div align="center">
   <a href="https://github.com/rafavini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafavini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
