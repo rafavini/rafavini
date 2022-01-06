@@ -1,4 +1,4 @@
-### Oi! Eu sou o Rafael Vinicius <a href="https://emoji.gg/emoji/2807-gkalie124-wiggle"><img src="https://emoji.gg/assets/emoji/2807-gkalie124-wiggle.gif" width="32px" height="32px" alt="gkalie124_wiggle"></a>
+### Oi! Eu sou o Rafael Vinicius <img src="https://emoji.gg/assets/emoji/2807-gkalie124-wiggle.gif" width="32px" height="32px" alt="gkalie124_wiggle">
 ##
 
 Público meus projetos e estudo neste repositório.
