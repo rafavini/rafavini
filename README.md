@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Rafael Vinicius <img src="https://emoji.gg/assets/emoji/2807-gkalie124-wiggle.gif" width="32px" height="32px" alt="gkalie124_wiggle">
 ##
 
-Público meus projetos e estudo neste repositório.
+Público meus projetos e estudos neste repositório.
 
  
  
