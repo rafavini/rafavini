@@ -29,5 +29,4 @@
 <br/>
 <br/>
 
-five years os my life. Several hours of yours leisure
 <p align="right">“<ins><b>Years</b></ins> of my life for a <i><b>several</b></i> hours of yours leisure.” - Pathologic 2</p>
